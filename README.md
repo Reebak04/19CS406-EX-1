@@ -36,6 +36,9 @@ server using TCPSockets
 
 ### Client
 ```python
+Developed by: Tejusve Kabeer.F
+Register no:212222100054
+
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -52,6 +55,9 @@ c.close()
 ```
 ### Server
 ```python
+Developed by: Tejusve Kabeer.F
+Register no:212222100054
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
