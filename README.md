@@ -69,11 +69,10 @@ s.send("acknowledgement recived from the server".encode())
 ## OUTPUT:
 
 ### Clientoutput:
-![2aCO](https://github.com/Reebak04/19CS406-EX-1/assets/118364993/5bd32f6c-e17d-49d7-8810-4ff5360d05f0)
+![co](https://github.com/Reebak04/19CS406-EX-1/assets/118364993/d57e6519-dfd7-4657-9f73-7ab0f97ea7d6)
 
 ### Serveroutput:
-![2aSO](https://github.com/Reebak04/19CS406-EX-1/assets/118364993/bd21ba0e-c696-4c46-aa00-c1d7a1b6bbff)
-
+![so](https://github.com/Reebak04/19CS406-EX-1/assets/118364993/0dbd7f94-def6-4ff0-afff-f9d5edb592fe)
 
 ## RESULT:
 Thus, the program to implement socket programming date and time display from client to
